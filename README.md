@@ -10,3 +10,5 @@ Put the query.php into the html folder, and access via <servername/ip address>/q
 NOTE: This is not suitable for a LIVE site, unless you are looking to give everyone access to your database!  
 
 Only dependancy is a web server with php and MySQL/SQL/MariaDB..
+
+Mainly based on code snippets from blogs and learning sites. 
